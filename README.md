@@ -1,4 +1,7 @@
 # hello-world2
 Just another repository 
-I like pizza but without the dough
+
+Hello: I love pizza
+
+I love pizza but without the dough
 This change removes the dough
